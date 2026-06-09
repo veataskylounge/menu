@@ -132,13 +132,13 @@ body {
     
 }
 
-.item-info {
+/* --- .item-info {
     padding: 1.5rem;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
     flex-grow: 1;
-}
+} --- */
 
 .item-header {
     display: flex;
