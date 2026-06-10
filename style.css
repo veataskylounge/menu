@@ -3,7 +3,7 @@
     --primary-color: #c5a880;
     --dark-color: #222;
     --light-bg: #fdfdfd;
-    --sidebar-bg: #1a1a1a;
+    --sidebar-bg: #07324cf3;
     --text-muted: #666;
     --card-bg: #ffffff;
 }
@@ -68,13 +68,14 @@ body {
 
 .filter-btn {
     background: transparent;
-    border: 1px solid #333;
+    border: 0;
+    background-color:#07324cf3;
     padding: 0.8rem 1.2rem;
     font-size: 1rem;
     text-align: left;
     border-radius: 6px;
     cursor: pointer;
-    color: #ccc;
+    color: #ffffff;
     transition: all 0.3s ease;
 }
 
@@ -84,7 +85,9 @@ body {
     font-weight: 400;
     border-color: var(--primary-color);
 }
-
+ .footer-btn-container {
+        visibility: hidden;
+    }
 /* --- Main Content Area --- */
 .main-content {
     margin-left: 280px; /* Matches sidebar width */
@@ -194,15 +197,21 @@ body {
 
     .btn-container {
         position:fixed;
-        left: 5%;
-        bottom: 0.25rem;
-        background: rgba(26, 26, 26, 0.95);
-        padding: 1rem 2rem;
-        border-radius: 8px;
-        flex-direction: row;
-        flex-wrap: wrap;
-        gap: 0.75rem;
+        visibility: hidden;
     }
+    .footer-btn-container {
+        display: flex;
+        justify-content: center;
+        gap: 0.75rem;
+        padding: 1rem;
+        background-color: var(--sidebar-bg);
+        position: fixed;
+        bottom: 0;
+        width: 100%;
+        z-index: 1;
+        visibility: inherit;
+    }
+ 
 
     .filter-btn {
         width: auto;
@@ -250,9 +259,9 @@ body {
         width: 80px;
         padding-top: 1.5rem;
         padding-right: 100px;
-
         font-size: 0.75rem;
     }
+
 
  
 
