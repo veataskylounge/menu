@@ -702,7 +702,7 @@ const menu = [
     },
     {
         id: 51,
-        category: "asian",
+        category: "western",
         price: "$9.99",
         img: "./images/food/52.Australia BeefRibeye Steak (300g).jpg",
         en: {
@@ -730,15 +730,15 @@ const menu = [
     },
     {
         id: 53,
-        category: "asian",
+        category: "western",
         price: "$9.99",
         img: "./images/food/53.Us Beef Striplion.jpg",
         en: {
-            title: "Green Papaya with Seafood Salad",
+            title: "Us Beef Striplion",
             desc: "( Salmon, Crab & Prawn ), Stir-fried rice noodles with tofu, shrimp, bean sprouts, and a tangy tamarind sauce."
         },
         km: {
-            title: "បុកល្ហុងគ្រឿងសមុទ្រ",
+            title: "ស្តេកសាច់គោអូអាមេរិក",
             desc: "មីឆាថៃជាមួយតៅហ៊ូ បង្គា សណ្តែកបណ្តុះ និងទឹកជ្រលក់អំពិលទុំជូរអែម។"
         }
     },
