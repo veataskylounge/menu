@@ -31,6 +31,7 @@
     padding: 0.5rem;
     font-size: 0.85rem;
     border-radius: 4px;
+    box-shadow: 2px 4px 6px 0px rgba(0, 0, 0, 0.50);
     cursor: pointer;
     font-weight: 600;
     transition: all 0.2s ease;
