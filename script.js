@@ -312,7 +312,7 @@ const menu = [
         id: 23,
         category: "asian",
         price: "$8.50",
-        img: "./images/food/20.Steamed Grouper Fish with Soy Sauce.jpg",
+        img: "./images/food/23.អាម៉ុកគឿងសមុទ្រ.jpg",
         en: {
             title: "Amok Seafood in Fresh Coconut",
             desc: "( Salmon, Crab & Prawn ), Stir-fried rice noodles with tofu, shrimp, bean sprouts, and a tangy tamarind sauce."
@@ -326,7 +326,7 @@ const menu = [
         id: 24,
         category: "asian",
         price: "$7.00",
-        img: "./images/food/09.ស្ងោរងាំងូវមាន់ស្រែ.jpg",
+        img: "./images/food/24.អាម៉ុកត្រី.jpg",
         en: {
             title: "Amok Fish in fresh Coconut",
             desc: "( Salmon, Crab & Prawn ), Stir-fried rice noodles with tofu, shrimp, bean sprouts, and a tangy tamarind sauce."
@@ -410,7 +410,7 @@ const menu = [
         id: 30,
         category: "asian",
         price: "$8.00",
-        img: "./images/food/09.ស្ងោរងាំងូវមាន់ស្រែ.jpg",
+        img: "./images/food/30.បង្គាអប់មីសួរ.jpg",
         en: {
             title: "Steamed Prawn with Vermicelli",
             desc: "( Salmon, Crab & Prawn ), Stir-fried rice noodles with tofu, shrimp, bean sprouts, and a tangy tamarind sauce."
