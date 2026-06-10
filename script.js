@@ -46,7 +46,7 @@ const menu = [
         id: 4,
         category: "asian",
         price: "$9.99",
-        img: "./images/food/09.ស្ងោរងាំងូវមាន់ស្រែ.jpg",
+        img: "./images/food/04.បុកល្ហុងគ្រឿងសមុទ្រ.jpg",
         en: {
             title: "Green Papaya with Seafood Salad",
             desc: "( Salmon, Crab & Prawn ), Stir-fried rice noodles with tofu, shrimp, bean sprouts, and a tangy tamarind sauce."
