@@ -4,7 +4,7 @@ const menu = [
         id: 1,
         category: "asian",
         price: "$13.00",
-        img: "./images/food/09.ស្ងោរងាំងូវមាន់ស្រែ.jpg",
+        img: "./images/food/01.ត្រីសាលម៉ុនឆៅ.jpg",
         en: {
             title: "Raw Salmon ( Sashimi ) 250g",
             desc: "A premium selection of chef's choice nigiri, maki rolls, and fresh sashimi served with wasabi."
@@ -200,7 +200,7 @@ const menu = [
         id: 15,
         category: "asian",
         price: "$8.50",
-        img: "./images/food/20.Steamed Grouper Fish with Soy Sauce.jpg",
+        img: "./images/food/15.សាច់គោជ្រលួញពិសេស.jpg",
         en: {
             title: "Grilled Beef Skewer with Papaya Pickle",
             desc: "( Salmon, Crab & Prawn ), Stir-fried rice noodles with tofu, shrimp, bean sprouts, and a tangy tamarind sauce."
