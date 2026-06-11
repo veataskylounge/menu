@@ -60,7 +60,7 @@ const menu = [
         id: 5,
         category: "asian",
         price: "$5.75",
-        img: "./images/food/09.ស្ងោរងាំងូវមាន់ស្រែ.jpg",
+        img: "./images/food/05.ភ្លាសាច់គោបែបខ្មែរ.jpg",
         en: {
             title: "Beef Salad with Khmer Herbs",
             desc: "Authentic Roman pasta made with crispy guanciale, egg yolks, and Pecorino Romano cheese."
@@ -704,7 +704,7 @@ const menu = [
         id: 51,
         category: "western",
         price: "$9.99",
-        img: "./images/food/52.Australia BeefRibeye Steak (300g).jpg",
+        img: "./images/food/51.សាំងវិចធូណា.jpg",
         en: {
             title: "Green Papaya with Seafood Salad",
             desc: "( Salmon, Crab & Prawn ), Stir-fried rice noodles with tofu, shrimp, bean sprouts, and a tangy tamarind sauce."
