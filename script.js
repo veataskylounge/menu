@@ -452,7 +452,7 @@ const menu = [
         id: 33,
         category: "asian",
         price: "$5.50",
-        img: "./images/food/09.ស្ងោរងាំងូវមាន់ស្រែ.jpg",
+        img: "./images/food/33.បាយឆាយ៉ាងចូវ.jpg",
         en: {
             title: "Fried Rice Yang Chov",
             desc: "( Salmon, Crab & Prawn ), Stir-fried rice noodles with tofu, shrimp, bean sprouts, and a tangy tamarind sauce."
@@ -466,7 +466,7 @@ const menu = [
         id: 34,
         category: "asian",
         price: "$7.00",
-        img: "./images/food/34.បាយឆាគឿងសមុទ្រ.jpg",
+        img: "./images/food/33.បាយឆាយ៉ាងចូវ.jpg",
         en: {
             title: "Fried Rice seafood",
             desc: "( Salmon, Crab & Prawn ), Stir-fried rice noodles with tofu, shrimp, bean sprouts, and a tangy tamarind sauce."
