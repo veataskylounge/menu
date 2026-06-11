@@ -774,7 +774,7 @@ const menu = [
         id: 14,
         category: "drink",
         price: "$15.00",
-        img: "./images/food/14.ABC (can).jpg",
+        img: "./images/drink/14.ABC (can).jpg",
         en: {
             title: "ABC (can)",
             desc: "( Salmon, Crab & Prawn ), Stir-fried rice noodles with tofu, shrimp, bean sprouts, and a tangy tamarind sauce."
@@ -788,7 +788,7 @@ const menu = [
         id: 24,
         category: "drink",
         price: "$15.00",
-        img: "./images/food/24.Coke.jpg",
+        img: "./images/drink/24.Coke.jpg",
         en: {
             title: "Coke",
             desc: "( Salmon, Crab & Prawn ), Stir-fried rice noodles with tofu, shrimp, bean sprouts, and a tangy tamarind sauce."
@@ -802,7 +802,7 @@ const menu = [
         id: 25,
         category: "drink",
         price: "$15.00",
-        img: "./images/food/25.Yeo's.jpg",
+        img: "./images/drink/25.Yeo's.jpg",
         en: {
             title: "Yoe's",
             desc: "( Salmon, Crab & Prawn ), Stir-fried rice noodles with tofu, shrimp, bean sprouts, and a tangy tamarind sauce."
@@ -816,7 +816,7 @@ const menu = [
         id: 26,
         category: "drink",
         price: "$15.00",
-        img: "./images/food/26.Soda Water.jpg",
+        img: "./images/drink/26.Soda Water.jpg",
         en: {
             title: "Soda Water",
             desc: "( Salmon, Crab & Prawn ), Stir-fried rice noodles with tofu, shrimp, bean sprouts, and a tangy tamarind sauce."
@@ -830,7 +830,7 @@ const menu = [
         id: 27,
         category: "drink",
         price: "$15.00",
-        img: "./images/food/27.Sprite.jpg",
+        img: "./images/drink/27.Sprite.jpg",
         en: {
             title: "Sprite",
             desc: "( Salmon, Crab & Prawn ), Stir-fried rice noodles with tofu, shrimp, bean sprouts, and a tangy tamarind sauce."
