@@ -773,7 +773,7 @@ const menu = [
     {
         id: 14,
         category: "drink",
-        price: "$15.00",
+        price: "$3.50",
         img: "./images/drink/14.ABC (can).jpg",
         en: {
             title: "ABC (can)",
@@ -787,7 +787,7 @@ const menu = [
     {
         id: 24,
         category: "drink",
-        price: "$15.00",
+        price: "$1.50",
         img: "./images/drink/24.Coke.jpg",
         en: {
             title: "Coke",
@@ -801,7 +801,7 @@ const menu = [
     {
         id: 25,
         category: "drink",
-        price: "$15.00",
+        price: "$1.50",
         img: "./images/drink/25.Yeo's.jpg",
         en: {
             title: "Yoe's",
@@ -815,7 +815,7 @@ const menu = [
     {
         id: 26,
         category: "drink",
-        price: "$15.00",
+        price: "$1.50",
         img: "./images/drink/26.Soda Water.jpg",
         en: {
             title: "Soda Water",
@@ -829,7 +829,7 @@ const menu = [
     {
         id: 27,
         category: "drink",
-        price: "$15.00",
+        price: "$1.50",
         img: "./images/drink/27.Sprite.jpg",
         en: {
             title: "Sprite",
