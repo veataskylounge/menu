@@ -770,6 +770,76 @@ const menu = [
             desc: "មីឆាថៃជាមួយតៅហ៊ូ បង្គា សណ្តែកបណ្តុះ និងទឹកជ្រលក់អំពិលទុំជូរអែម។"
         }
     },
+    {
+        id: 14,
+        category: "drink",
+        price: "$15.00",
+        img: "./images/food/14.ABC (can).jpg",
+        en: {
+            title: "ABC (can)",
+            desc: "( Salmon, Crab & Prawn ), Stir-fried rice noodles with tofu, shrimp, bean sprouts, and a tangy tamarind sauce."
+        },
+        km: {
+            title: "ABC កំប៉ុង",
+            desc: "មីឆាថៃជាមួយតៅហ៊ូ បង្គា សណ្តែកបណ្តុះ និងទឹកជ្រលក់អំពិលទុំជូរអែម។"
+        }
+    },
+    {
+        id: 24,
+        category: "drink",
+        price: "$15.00",
+        img: "./images/food/24.Coke.jpg",
+        en: {
+            title: "Coke",
+            desc: "( Salmon, Crab & Prawn ), Stir-fried rice noodles with tofu, shrimp, bean sprouts, and a tangy tamarind sauce."
+        },
+        km: {
+            title: "ទឹកក្រូច Coca",
+            desc: "មីឆាថៃជាមួយតៅហ៊ូ បង្គា សណ្តែកបណ្តុះ និងទឹកជ្រលក់អំពិលទុំជូរអែម។"
+        }
+    },
+    {
+        id: 25,
+        category: "drink",
+        price: "$15.00",
+        img: "./images/food/25.Yeo's.jpg",
+        en: {
+            title: "Yoe's",
+            desc: "( Salmon, Crab & Prawn ), Stir-fried rice noodles with tofu, shrimp, bean sprouts, and a tangy tamarind sauce."
+        },
+        km: {
+            title: "Yoe's",
+            desc: "មីឆាថៃជាមួយតៅហ៊ូ បង្គា សណ្តែកបណ្តុះ និងទឹកជ្រលក់អំពិលទុំជូរអែម។"
+        }
+    },
+    {
+        id: 26,
+        category: "drink",
+        price: "$15.00",
+        img: "./images/food/26.Soda Water.jpg",
+        en: {
+            title: "Soda Water",
+            desc: "( Salmon, Crab & Prawn ), Stir-fried rice noodles with tofu, shrimp, bean sprouts, and a tangy tamarind sauce."
+        },
+        km: {
+            title: "ទឹកសូដា",
+            desc: "មីឆាថៃជាមួយតៅហ៊ូ បង្គា សណ្តែកបណ្តុះ និងទឹកជ្រលក់អំពិលទុំជូរអែម។"
+        }
+    },
+    {
+        id: 27,
+        category: "drink",
+        price: "$15.00",
+        img: "./images/food/27.Sprite.jpg",
+        en: {
+            title: "Sprite",
+            desc: "( Salmon, Crab & Prawn ), Stir-fried rice noodles with tofu, shrimp, bean sprouts, and a tangy tamarind sauce."
+        },
+        km: {
+            title: "ទឹកក្រូច Sprit",
+            desc: "មីឆាថៃជាមួយតៅហ៊ូ បង្គា សណ្តែកបណ្តុះ និងទឹកជ្រលក់អំពិលទុំជូរអែម។"
+        }
+    },
 
 
 ];
