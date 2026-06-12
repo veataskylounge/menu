@@ -18,7 +18,7 @@ const menu = [
         id: 2,
         category: "asian",
         price: "$7.00",
-        img: "./images/food/09.ស្ងោរងាំងូវមាន់ស្រែ.jpg",
+        img: "./images/food/02.ញុំាមីសួរគ្រឿងសមុទ្រ.jpg",
         en: {
             title: "Seafood Glass Noodle Salad",
             desc: "Traditional French beef stew braised in rich red wine, lardons, mushrooms, and carrots."
@@ -32,7 +32,7 @@ const menu = [
         id: 3,
         category: "asian",
         price: "$3.99",
-        img: "./images/food/09.ស្ងោរងាំងូវមាន់ស្រែ.jpg",
+        img: "./images/food/03.បុកល្ហុងក្ដាមប្រៃ.jpg",
         en: {
             title: "Green Papaya with Salt Crab Salad",
             desc: "Ceremonial grade Japanese green tea whisked with steamed oat milk and raw honey."
@@ -242,7 +242,7 @@ const menu = [
         id: 18,
         category: "asian",
         price: "$4.00",
-        img: "./images/food/20.Steamed Grouper Fish with Soy Sauce.jpg",
+        img: "./images/food/18.ចាយ៉សាច់ជ្រូក.jpg",
         en: {
             title: "Deep-Fried Pork spring Roll",
             desc: "( Salmon, Crab & Prawn ), Stir-fried rice noodles with tofu, shrimp, bean sprouts, and a tangy tamarind sauce."
