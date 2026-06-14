@@ -880,7 +880,6 @@ function renderMenu() {
                 <div class="item-header">
                     <h3>${item.id}. ${langData.title}</h3>
                 </div>
-               <p class="item-text">${langData.desc}</p>
                 <h2 class="price">${item.price}</h2>
             </div>
         </article>`;
