@@ -256,7 +256,7 @@ const menu = [
         id: 19,
         category: "asian",
         price: "$5.25",
-        img: "./images/food/20.Steamed Grouper Fish with Soy Sauce.jpg",
+        img: "./images/food/19.អណ្ដាតទាបំពងខ្ទឹមស.jpg",
         en: {
             title: "Deep-Fried Duck Tongues with Garlic",
             desc: "( Salmon, Crab & Prawn ), Stir-fried rice noodles with tofu, shrimp, bean sprouts, and a tangy tamarind sauce."
@@ -340,7 +340,7 @@ const menu = [
         id: 25,
         category: "asian",
         price: "$22.00",
-        img: "./images/food/09.ស្ងោរងាំងូវមាន់ស្រែ.jpg",
+        img: "./images/food/25.ត្រីឆ្ពុងបំពងជូអែម.jpg",
         en: {
             title: "Deep-Fried Seabass Fish with Sweet & Sour Sauce",
             desc: "( Salmon, Crab & Prawn ), Stir-fried rice noodles with tofu, shrimp, bean sprouts, and a tangy tamarind sauce."
@@ -396,7 +396,7 @@ const menu = [
         id: 29,
         category: "asian",
         price: "$10.00",
-        img: "./images/food/09.ស្ងោរងាំងូវមាន់ស្រែ.jpg",
+        img: "./images/food/29.បង្គាបំពងខ្ទឹមស.jpg",
         en: {
             title: "Deep-Fried Prawn with Garlic",
             desc: "( Salmon, Crab & Prawn ), Stir-fried rice noodles with tofu, shrimp, bean sprouts, and a tangy tamarind sauce."
@@ -466,7 +466,7 @@ const menu = [
         id: 34,
         category: "asian",
         price: "$7.00",
-        img: "./images/food/33.បាយឆាយ៉ាងចូវ.jpg",
+        img: "./images/food/34.បាយឆាគ្រឿងសមុទ្រ.jpg",
         en: {
             title: "Fried Rice seafood",
             desc: "( Salmon, Crab & Prawn ), Stir-fried rice noodles with tofu, shrimp, bean sprouts, and a tangy tamarind sauce."
