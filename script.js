@@ -214,7 +214,7 @@ const menu = [
         id: 16,
         category: "asian",
         price: "$20.00",
-        img: "./images/food/20.Steamed Grouper Fish with Soy Sauce.jpg",
+        img: "./images/food/16.Grilled Khmer Chicken.jpg",
         en: {
             title: "Grilled Khmer Chicken with Khmer Sauce( One Chicken )",
             desc: "( Salmon, Crab & Prawn ), Stir-fried rice noodles with tofu, shrimp, bean sprouts, and a tangy tamarind sauce."
