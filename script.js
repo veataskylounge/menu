@@ -115,7 +115,7 @@ const menu = [
     {
         id: 9,
         category: "asian",
-        price: "$7.5",
+        price: "$7.50",
         img: "./images/food/09.ស្ងោរងាំងូវមាន់ស្រែ.jpg",
         en: {
             title: "Khmer Chicken Sour Soup with Lime Pickle( Half chicken )",
@@ -535,14 +535,14 @@ const menu = [
     {
         id: 39,
         category: "western",
-        price: "$9.99",
+        price: "$4.50",
         img: "./images/food/39.សាឡាដសាច់មាន់.jpg",
         en: {
-            title: "Green Papaya with Seafood Salad",
+            title: "Grilled Chicken Salad",
             desc: "( Salmon, Crab & Prawn ), Stir-fried rice noodles with tofu, shrimp, bean sprouts, and a tangy tamarind sauce."
         },
         km: {
-            title: "បុកល្ហុងគ្រឿងសមុទ្រ",
+            title: "សាឡាដសាច់មាន់",
             desc: "មីឆាថៃជាមួយតៅហ៊ូ បង្គា សណ្តែកបណ្តុះ និងទឹកជ្រលក់អំពិលទុំជូរអែម។"
         }
     },
@@ -619,7 +619,7 @@ const menu = [
     {
         id: 45,
         category: "western",
-        price: "$9.99",
+        price: "$7.00",
         img: "./images/food/45.Spaghetti Seafood.jpg",
         en: {
             title: "Spaghetti Seafood",
@@ -703,14 +703,14 @@ const menu = [
     {
         id: 51,
         category: "western",
-        price: "$9.99",
+        price: "$4.50",
         img: "./images/food/51.សាំងវិចធូណា.jpg",
         en: {
-            title: "Green Papaya with Seafood Salad",
+            title: "Tuna Sandwich",
             desc: "( Salmon, Crab & Prawn ), Stir-fried rice noodles with tofu, shrimp, bean sprouts, and a tangy tamarind sauce."
         },
         km: {
-            title: "បុកល្ហុងគ្រឿងសមុទ្រ",
+            title: "សាំងវិចត្រីធូណា",
             desc: "មីឆាថៃជាមួយតៅហ៊ូ បង្គា សណ្តែកបណ្តុះ និងទឹកជ្រលក់អំពិលទុំជូរអែម។"
         }
     },
@@ -731,7 +731,7 @@ const menu = [
     {
         id: 53,
         category: "western",
-        price: "$9.99",
+        price: "$15.00",
         img: "./images/food/53.Us Beef Striplion.jpg",
         en: {
             title: "Us Beef Striplion",
