@@ -886,7 +886,7 @@ const menu = [
         id: 22,
         category: "drink",
         price: "$1.50",
-        img: "./images/drink/22.Vital (500ml).jpg",
+        img: "./images/drink/22.Vital  (500ml).jpg",
         en: {
             title: "Vital (500ml)",
             desc: "( Salmon, Crab & Prawn ), Stir-fried rice noodles with tofu, shrimp, bean sprouts, and a tangy tamarind sauce."
