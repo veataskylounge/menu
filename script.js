@@ -771,6 +771,90 @@ const menu = [
         }
     },
     {
+        id: 02,
+        category: "drink",
+        price: "$3.50",
+        img: "./images/drink/02.Koonunga Hill Red (Btl).jpg",
+        en: {
+            title: "Koonunga Hill Red (Btl)",
+            desc: "( Salmon, Crab & Prawn ), Stir-fried rice noodles with tofu, shrimp, bean sprouts, and a tangy tamarind sauce."
+        },
+        km: {
+            title: "Koonunga Hill Red",
+            desc: "មីឆាថៃជាមួយតៅហ៊ូ បង្គា សណ្តែកបណ្តុះ និងទឹកជ្រលក់អំពិលទុំជូរអែម។"
+        }
+    },
+    {
+        id: 14,
+        category: "drink",
+        price: "$3.50",
+        img: "./images/drink/14.ABC (can).jpg",
+        en: {
+            title: "ABC (can)",
+            desc: "( Salmon, Crab & Prawn ), Stir-fried rice noodles with tofu, shrimp, bean sprouts, and a tangy tamarind sauce."
+        },
+        km: {
+            title: "ABC កំប៉ុង",
+            desc: "មីឆាថៃជាមួយតៅហ៊ូ បង្គា សណ្តែកបណ្តុះ និងទឹកជ្រលក់អំពិលទុំជូរអែម។"
+        }
+    },
+    {
+        id: 14,
+        category: "drink",
+        price: "$3.50",
+        img: "./images/drink/14.ABC (can).jpg",
+        en: {
+            title: "ABC (can)",
+            desc: "( Salmon, Crab & Prawn ), Stir-fried rice noodles with tofu, shrimp, bean sprouts, and a tangy tamarind sauce."
+        },
+        km: {
+            title: "ABC កំប៉ុង",
+            desc: "មីឆាថៃជាមួយតៅហ៊ូ បង្គា សណ្តែកបណ្តុះ និងទឹកជ្រលក់អំពិលទុំជូរអែម។"
+        }
+    },
+    {
+        id: 14,
+        category: "drink",
+        price: "$3.50",
+        img: "./images/drink/14.ABC (can).jpg",
+        en: {
+            title: "ABC (can)",
+            desc: "( Salmon, Crab & Prawn ), Stir-fried rice noodles with tofu, shrimp, bean sprouts, and a tangy tamarind sauce."
+        },
+        km: {
+            title: "ABC កំប៉ុង",
+            desc: "មីឆាថៃជាមួយតៅហ៊ូ បង្គា សណ្តែកបណ្តុះ និងទឹកជ្រលក់អំពិលទុំជូរអែម។"
+        }
+    },
+    {
+        id: 14,
+        category: "drink",
+        price: "$3.50",
+        img: "./images/drink/14.ABC (can).jpg",
+        en: {
+            title: "ABC (can)",
+            desc: "( Salmon, Crab & Prawn ), Stir-fried rice noodles with tofu, shrimp, bean sprouts, and a tangy tamarind sauce."
+        },
+        km: {
+            title: "ABC កំប៉ុង",
+            desc: "មីឆាថៃជាមួយតៅហ៊ូ បង្គា សណ្តែកបណ្តុះ និងទឹកជ្រលក់អំពិលទុំជូរអែម។"
+        }
+    },
+    {
+        id: 14,
+        category: "drink",
+        price: "$3.50",
+        img: "./images/drink/14.ABC (can).jpg",
+        en: {
+            title: "ABC (can)",
+            desc: "( Salmon, Crab & Prawn ), Stir-fried rice noodles with tofu, shrimp, bean sprouts, and a tangy tamarind sauce."
+        },
+        km: {
+            title: "ABC កំប៉ុង",
+            desc: "មីឆាថៃជាមួយតៅហ៊ូ បង្គា សណ្តែកបណ្តុះ និងទឹកជ្រលក់អំពិលទុំជូរអែម។"
+        }
+    },
+    {
         id: 14,
         category: "drink",
         price: "$3.50",
