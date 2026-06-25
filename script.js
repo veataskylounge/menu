@@ -813,44 +813,44 @@ const menu = [
         }
     },
     {
-        id: 14,
+        id: 08,
         category: "drink",
         price: "$3.50",
-        img: "./images/drink/14.ABC (can).jpg",
+        img: "./images/drink/08.Migthy Blue Shiraz.jpg",
         en: {
-            title: "ABC (can)",
+            title: "Migthy Blue Shiraz",
             desc: "( Salmon, Crab & Prawn ), Stir-fried rice noodles with tofu, shrimp, bean sprouts, and a tangy tamarind sauce."
         },
         km: {
-            title: "ABC កំប៉ុង",
+            title: "Migthy Blue Shiraz",
             desc: "មីឆាថៃជាមួយតៅហ៊ូ បង្គា សណ្តែកបណ្តុះ និងទឹកជ្រលក់អំពិលទុំជូរអែម។"
         }
     },
     {
-        id: 14,
+        id: 09,
         category: "drink",
         price: "$3.50",
-        img: "./images/drink/14.ABC (can).jpg",
+        img: "./images/drink/09.Migthy Blue Carbernet Savigon.jpg",
         en: {
-            title: "ABC (can)",
+            title: "Migthy Blue Carbernet Savigon",
             desc: "( Salmon, Crab & Prawn ), Stir-fried rice noodles with tofu, shrimp, bean sprouts, and a tangy tamarind sauce."
         },
         km: {
-            title: "ABC កំប៉ុង",
+            title: "Migthy Blue Carbernet Savigon",
             desc: "មីឆាថៃជាមួយតៅហ៊ូ បង្គា សណ្តែកបណ្តុះ និងទឹកជ្រលក់អំពិលទុំជូរអែម។"
         }
     },
     {
-        id: 14,
+        id: 11,
         category: "drink",
         price: "$3.50",
-        img: "./images/drink/14.ABC (can).jpg",
+        img: "./images/drink/11.Chateau Yaldera Lily Plonds Crenache.jpg",
         en: {
-            title: "ABC (can)",
+            title: "Chateau Yaldera Lily Plonds Crenache",
             desc: "( Salmon, Crab & Prawn ), Stir-fried rice noodles with tofu, shrimp, bean sprouts, and a tangy tamarind sauce."
         },
         km: {
-            title: "ABC កំប៉ុង",
+            title: "Chateau Yaldera Lily Plonds Crenache",
             desc: "មីឆាថៃជាមួយតៅហ៊ូ បង្គា សណ្តែកបណ្តុះ និងទឹកជ្រលក់អំពិលទុំជូរអែម។"
         }
     },
