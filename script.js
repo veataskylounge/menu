@@ -776,7 +776,7 @@ const menu = [
         price: "$3.50",
         img: "./images/drink/02.Koonunga Hill Red (Btl).jpg",
         en: {
-            title: "Koonunga Hill Red (Btl)",
+            title: "Koonunga Hill Red",
             desc: "( Salmon, Crab & Prawn ), Stir-fried rice noodles with tofu, shrimp, bean sprouts, and a tangy tamarind sauce."
         },
         km: {
@@ -785,30 +785,30 @@ const menu = [
         }
     },
     {
-        id: 14,
+        id: 03,
         category: "drink",
         price: "$3.50",
-        img: "./images/drink/14.ABC (can).jpg",
+        img: "./images/drink/03.Max's Red.jpg",
         en: {
-            title: "ABC (can)",
+            title: "Max's Red",
             desc: "( Salmon, Crab & Prawn ), Stir-fried rice noodles with tofu, shrimp, bean sprouts, and a tangy tamarind sauce."
         },
         km: {
-            title: "ABC កំប៉ុង",
+            title: "Max's Red",
             desc: "មីឆាថៃជាមួយតៅហ៊ូ បង្គា សណ្តែកបណ្តុះ និងទឹកជ្រលក់អំពិលទុំជូរអែម។"
         }
     },
     {
-        id: 14,
+        id: 07,
         category: "drink",
         price: "$3.50",
-        img: "./images/drink/14.ABC (can).jpg",
+        img: "./images/drink/07.Bin 389.jpg",
         en: {
-            title: "ABC (can)",
+            title: "Bin 389",
             desc: "( Salmon, Crab & Prawn ), Stir-fried rice noodles with tofu, shrimp, bean sprouts, and a tangy tamarind sauce."
         },
         km: {
-            title: "ABC កំប៉ុង",
+            title: "Bin 389",
             desc: "មីឆាថៃជាមួយតៅហ៊ូ បង្គា សណ្តែកបណ្តុះ និងទឹកជ្រលក់អំពិលទុំជូរអែម។"
         }
     },
