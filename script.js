@@ -981,6 +981,20 @@ const menu = [
         }
     },
     {
+        id: 23,
+        category: "drink",
+        price: "$1.50",
+        img: "./images/drink/23.Vital(1500ml).jpg",
+        en: {
+            title: "Vital (1500ml)",
+            desc: "( Salmon, Crab & Prawn ), Stir-fried rice noodles with tofu, shrimp, bean sprouts, and a tangy tamarind sauce."
+        },
+        km: {
+            title: "ទឹកបរិសុទ្ធវីតាល់ (1500ml)",
+            desc: "មីឆាថៃជាមួយតៅហ៊ូ បង្គា សណ្តែកបណ្តុះ និងទឹកជ្រលក់អំពិលទុំជូរអែម។"
+        }
+    },
+    {
         id: 24,
         category: "drink",
         price: "$1.50",
@@ -1033,6 +1047,174 @@ const menu = [
         },
         km: {
             title: "ទឹកក្រូច Sprit",
+            desc: "មីឆាថៃជាមួយតៅហ៊ូ បង្គា សណ្តែកបណ្តុះ និងទឹកជ្រលក់អំពិលទុំជូរអែម។"
+        }
+    },
+    {
+        id: 28,
+        category: "drink",
+        price: "$1.50",
+        img: "./images/drink/28.Ballantine 12Year.jpg",
+        en: {
+            title: "Ballantine 12Year",
+            desc: "( Salmon, Crab & Prawn ), Stir-fried rice noodles with tofu, shrimp, bean sprouts, and a tangy tamarind sauce."
+        },
+        km: {
+            title: "Ballantine 12Year",
+            desc: "មីឆាថៃជាមួយតៅហ៊ូ បង្គា សណ្តែកបណ្តុះ និងទឹកជ្រលក់អំពិលទុំជូរអែម។"
+        }
+    },
+    {
+        id: 30,
+        category: "drink",
+        price: "$1.50",
+        img: "./images/drink/30.Chivas Regal 12Year.jpg",
+        en: {
+            title: "Chivas Regal 12Year",
+            desc: "( Salmon, Crab & Prawn ), Stir-fried rice noodles with tofu, shrimp, bean sprouts, and a tangy tamarind sauce."
+        },
+        km: {
+            title: "Chivas Regal 12Year",
+            desc: "មីឆាថៃជាមួយតៅហ៊ូ បង្គា សណ្តែកបណ្តុះ និងទឹកជ្រលក់អំពិលទុំជូរអែម។"
+        }
+    },
+    {
+        id: 32,
+        category: "drink",
+        price: "$1.50",
+        img: "./images/drink/32.Royal Salute 21Year.jpg",
+        en: {
+            title: "Royal Salute 21Year",
+            desc: "( Salmon, Crab & Prawn ), Stir-fried rice noodles with tofu, shrimp, bean sprouts, and a tangy tamarind sauce."
+        },
+        km: {
+            title: "Royal Salute 21Year",
+            desc: "មីឆាថៃជាមួយតៅហ៊ូ បង្គា សណ្តែកបណ្តុះ និងទឹកជ្រលក់អំពិលទុំជូរអែម។"
+        }
+    },
+    {
+        id: 33,
+        category: "drink",
+        price: "$1.50",
+        img: "./images/drink/33.Double Black.jpg",
+        en: {
+            title: "Double Black",
+            desc: "( Salmon, Crab & Prawn ), Stir-fried rice noodles with tofu, shrimp, bean sprouts, and a tangy tamarind sauce."
+        },
+        km: {
+            title: "Double Black",
+            desc: "មីឆាថៃជាមួយតៅហ៊ូ បង្គា សណ្តែកបណ្តុះ និងទឹកជ្រលក់អំពិលទុំជូរអែម។"
+        }
+    },
+    {
+        id: 34,
+        category: "drink",
+        price: "$1.50",
+        img: "./images/drink/34.Gold Label.jpg",
+        en: {
+            title: "Gold Label",
+            desc: "( Salmon, Crab & Prawn ), Stir-fried rice noodles with tofu, shrimp, bean sprouts, and a tangy tamarind sauce."
+        },
+        km: {
+            title: "Gold Label",
+            desc: "មីឆាថៃជាមួយតៅហ៊ូ បង្គា សណ្តែកបណ្តុះ និងទឹកជ្រលក់អំពិលទុំជូរអែម។"
+        }
+    },
+    {
+        id: 35,
+        category: "drink",
+        price: "$1.50",
+        img: "./images/drink/35.Jack Daneil's.jpg",
+        en: {
+            title: "Jack Daneil's",
+            desc: "( Salmon, Crab & Prawn ), Stir-fried rice noodles with tofu, shrimp, bean sprouts, and a tangy tamarind sauce."
+        },
+        km: {
+            title: "Jack Daneil's",
+            desc: "មីឆាថៃជាមួយតៅហ៊ូ បង្គា សណ្តែកបណ្តុះ និងទឹកជ្រលក់អំពិលទុំជូរអែម។"
+        }
+    },
+    {
+        id: 36,
+        category: "drink",
+        price: "$1.50",
+        img: "./images/drink/36.Jim Beam.jpg",
+        en: {
+            title: "Jim Beam",
+            desc: "( Salmon, Crab & Prawn ), Stir-fried rice noodles with tofu, shrimp, bean sprouts, and a tangy tamarind sauce."
+        },
+        km: {
+            title: "Jim Beam",
+            desc: "មីឆាថៃជាមួយតៅហ៊ូ បង្គា សណ្តែកបណ្តុះ និងទឹកជ្រលក់អំពិលទុំជូរអែម។"
+        }
+    },
+    {
+        id: 37,
+        category: "drink",
+        price: "$1.50",
+        img: "./images/drink/37.Black Label.jpg",
+        en: {
+            title: "Black Label",
+            desc: "( Salmon, Crab & Prawn ), Stir-fried rice noodles with tofu, shrimp, bean sprouts, and a tangy tamarind sauce."
+        },
+        km: {
+            title: "Black Label",
+            desc: "មីឆាថៃជាមួយតៅហ៊ូ បង្គា សណ្តែកបណ្តុះ និងទឹកជ្រលក់អំពិលទុំជូរអែម។"
+        }
+    },
+    {
+        id: 38,
+        category: "drink",
+        price: "$1.50",
+        img: "./images/drink/38.Red Label.jpg",
+        en: {
+            title: "Red Label",
+            desc: "( Salmon, Crab & Prawn ), Stir-fried rice noodles with tofu, shrimp, bean sprouts, and a tangy tamarind sauce."
+        },
+        km: {
+            title: "Red Label",
+            desc: "មីឆាថៃជាមួយតៅហ៊ូ បង្គា សណ្តែកបណ្តុះ និងទឹកជ្រលក់អំពិលទុំជូរអែម។"
+        }
+    },
+    {
+        id: 39,
+        category: "drink",
+        price: "$1.50",
+        img: "./images/drink/39.Platimuim Label.jpg",
+        en: {
+            title: "Platimuim Label",
+            desc: "( Salmon, Crab & Prawn ), Stir-fried rice noodles with tofu, shrimp, bean sprouts, and a tangy tamarind sauce."
+        },
+        km: {
+            title: "Platimuim Label",
+            desc: "មីឆាថៃជាមួយតៅហ៊ូ បង្គា សណ្តែកបណ្តុះ និងទឹកជ្រលក់អំពិលទុំជូរអែម។"
+        }
+    },
+    {
+        id: 40,
+        category: "drink",
+        price: "$1.50",
+        img: "./images/drink/40.Martell X.O.jpg",
+        en: {
+            title: "Martell X.O",
+            desc: "( Salmon, Crab & Prawn ), Stir-fried rice noodles with tofu, shrimp, bean sprouts, and a tangy tamarind sauce."
+        },
+        km: {
+            title: "Martell X.O",
+            desc: "មីឆាថៃជាមួយតៅហ៊ូ បង្គា សណ្តែកបណ្តុះ និងទឹកជ្រលក់អំពិលទុំជូរអែម។"
+        }
+    },
+    {
+        id: 41,
+        category: "drink",
+        price: "$1.50",
+        img: "./images/drink/41.Martell Cordon Blue.jpg",
+        en: {
+            title: "Martell Cordon Blue",
+            desc: "( Salmon, Crab & Prawn ), Stir-fried rice noodles with tofu, shrimp, bean sprouts, and a tangy tamarind sauce."
+        },
+        km: {
+            title: "Martell Cordon Blue",
             desc: "មីឆាថៃជាមួយតៅហ៊ូ បង្គា សណ្តែកបណ្តុះ និងទឹកជ្រលក់អំពិលទុំជូរអែម។"
         }
     },
