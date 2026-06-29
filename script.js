@@ -1275,6 +1275,20 @@ const menu = [
         }
     },
     {
+        id: 49,
+        category: "drink",
+        price: "$4.00",
+        img: "./images/drink/49.Special Mekong view.jpg",
+        en: {
+            title: "Special Mekong view",
+            desc: "( Salmon, Crab & Prawn ), Stir-fried rice noodles with tofu, shrimp, bean sprouts, and a tangy tamarind sauce."
+        },
+        km: {
+            title: "Special Mekong view",
+            desc: "មីឆាថៃជាមួយតៅហ៊ូ បង្គា សណ្តែកបណ្តុះ និងទឹកជ្រលក់អំពិលទុំជូរអែម។"
+        }
+    },
+    {
         id: 50,
         category: "drink",
         price: "$4.00",
@@ -1303,6 +1317,48 @@ const menu = [
         }
     },
     {
+        id: 52,
+        category: "drink",
+        price: "$4.00",
+        img: "./images/drink/52.Blue Mekong.jpg",
+        en: {
+            title: "Blue Mekong",
+            desc: "( Salmon, Crab & Prawn ), Stir-fried rice noodles with tofu, shrimp, bean sprouts, and a tangy tamarind sauce."
+        },
+        km: {
+            title: "Blue Mekong",
+            desc: "មីឆាថៃជាមួយតៅហ៊ូ បង្គា សណ្តែកបណ្តុះ និងទឹកជ្រលក់អំពិលទុំជូរអែម។"
+        }
+    },
+    {
+        id: 53,
+        category: "drink",
+        price: "$3.00",
+        img: "./images/drink/53.Apple Shake.jpg",
+        en: {
+            title: "Apple Shake",
+            desc: "( Salmon, Crab & Prawn ), Stir-fried rice noodles with tofu, shrimp, bean sprouts, and a tangy tamarind sauce."
+        },
+        km: {
+            title: "Apple Shake",
+            desc: "មីឆាថៃជាមួយតៅហ៊ូ បង្គា សណ្តែកបណ្តុះ និងទឹកជ្រលក់អំពិលទុំជូរអែម។"
+        }
+    },
+    {
+        id: 54,
+        category: "drink",
+        price: "$3.00",
+        img: "./images/drink/54.Coconut Shake.jpg",
+        en: {
+            title: "Coconut Shake",
+            desc: "( Salmon, Crab & Prawn ), Stir-fried rice noodles with tofu, shrimp, bean sprouts, and a tangy tamarind sauce."
+        },
+        km: {
+            title: "Coconut Shake",
+            desc: "មីឆាថៃជាមួយតៅហ៊ូ បង្គា សណ្តែកបណ្តុះ និងទឹកជ្រលក់អំពិលទុំជូរអែម។"
+        }
+    },
+    {
         id: 55,
         category: "drink",
         price: "$3.00",
@@ -1313,6 +1369,62 @@ const menu = [
         },
         km: {
             title: "Passion Shake",
+            desc: "មីឆាថៃជាមួយតៅហ៊ូ បង្គា សណ្តែកបណ្តុះ និងទឹកជ្រលក់អំពិលទុំជូរអែម។"
+        }
+    },
+    {
+        id: 56,
+        category: "drink",
+        price: "$3.00",
+        img: "./images/drink/56.Pineapple Shake.jpg",
+        en: {
+            title: "Pineapple Shake",
+            desc: "( Salmon, Crab & Prawn ), Stir-fried rice noodles with tofu, shrimp, bean sprouts, and a tangy tamarind sauce."
+        },
+        km: {
+            title: "Pineapple Shake",
+            desc: "មីឆាថៃជាមួយតៅហ៊ូ បង្គា សណ្តែកបណ្តុះ និងទឹកជ្រលក់អំពិលទុំជូរអែម។"
+        }
+    },
+    {
+        id: 57,
+        category: "drink",
+        price: "$3.00",
+        img: "./images/drink/57.Watermelon Shake.jpg",
+        en: {
+            title: "Watermelon Shake",
+            desc: "( Salmon, Crab & Prawn ), Stir-fried rice noodles with tofu, shrimp, bean sprouts, and a tangy tamarind sauce."
+        },
+        km: {
+            title: "Watermelon Shake",
+            desc: "មីឆាថៃជាមួយតៅហ៊ូ បង្គា សណ្តែកបណ្តុះ និងទឹកជ្រលក់អំពិលទុំជូរអែម។"
+        }
+    },
+    {
+        id: 58,
+        category: "drink",
+        price: "$3.00",
+        img: "./images/drink/58.Avocado Shake.jpg",
+        en: {
+            title: "Avocado Shake",
+            desc: "( Salmon, Crab & Prawn ), Stir-fried rice noodles with tofu, shrimp, bean sprouts, and a tangy tamarind sauce."
+        },
+        km: {
+            title: "Avocado Shake",
+            desc: "មីឆាថៃជាមួយតៅហ៊ូ បង្គា សណ្តែកបណ្តុះ និងទឹកជ្រលក់អំពិលទុំជូរអែម។"
+        }
+    },
+    {
+        id: 59,
+        category: "drink",
+        price: "$3.00",
+        img: "./images/drink/59.Mix Fruite Shake.jpg",
+        en: {
+            title: "Mix Fruite Shake",
+            desc: "( Salmon, Crab & Prawn ), Stir-fried rice noodles with tofu, shrimp, bean sprouts, and a tangy tamarind sauce."
+        },
+        km: {
+            title: "Mix Fruite Shake",
             desc: "មីឆាថៃជាមួយតៅហ៊ូ បង្គា សណ្តែកបណ្តុះ និងទឹកជ្រលក់អំពិលទុំជូរអែម។"
         }
     },
