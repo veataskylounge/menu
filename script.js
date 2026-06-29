@@ -773,7 +773,7 @@ const menu = [
     {
         id: 02,
         category: "drink",
-        price: "$3.50",
+        price: "$30.00",
         img: "./images/drink/02.Koonunga Hill Red (Btl).jpg",
         en: {
             title: "Koonunga Hill Red",
@@ -787,7 +787,7 @@ const menu = [
     {
         id: 03,
         category: "drink",
-        price: "$3.50",
+        price: "$58.00",
         img: "./images/drink/03.Max's Red.jpg",
         en: {
             title: "Max's Red",
@@ -801,7 +801,7 @@ const menu = [
     {
         id: 07,
         category: "drink",
-        price: "$3.50",
+        price: "$180.00",
         img: "./images/drink/07.Bin 389.jpg",
         en: {
             title: "Bin 389",
@@ -815,7 +815,7 @@ const menu = [
     {
         id: 08,
         category: "drink",
-        price: "$3.50",
+        price: "$35.00",
         img: "./images/drink/08.Migthy Blue Shiraz.jpg",
         en: {
             title: "Migthy Blue Shiraz",
@@ -829,7 +829,7 @@ const menu = [
     {
         id: 09,
         category: "drink",
-        price: "$3.50",
+        price: "$35.00",
         img: "./images/drink/09.Migthy Blue Carbernet Savigon.jpg",
         en: {
             title: "Migthy Blue Carbernet Savigon",
@@ -843,7 +843,7 @@ const menu = [
     {
         id: 11,
         category: "drink",
-        price: "$3.50",
+        price: "$65.00",
         img: "./images/drink/11.Chateau Yaldera Lily Plonds Crenache.jpg",
         en: {
             title: "Chateau Yaldera Lily Plonds Crenache",
@@ -983,7 +983,7 @@ const menu = [
     {
         id: 23,
         category: "drink",
-        price: "$1.50",
+        price: "$2.00",
         img: "./images/drink/23.Vital(1500ml).jpg",
         en: {
             title: "Vital (1500ml)",
@@ -1053,7 +1053,7 @@ const menu = [
     {
         id: 28,
         category: "drink",
-        price: "$1.50",
+        price: "$75.00",
         img: "./images/drink/28.Ballantine 12Year.jpg",
         en: {
             title: "Ballantine 12Year",
@@ -1067,7 +1067,7 @@ const menu = [
     {
         id: 30,
         category: "drink",
-        price: "$1.50",
+        price: "$45.00",
         img: "./images/drink/30.Chivas Regal 12Year.jpg",
         en: {
             title: "Chivas Regal 12Year",
@@ -1081,7 +1081,7 @@ const menu = [
     {
         id: 32,
         category: "drink",
-        price: "$1.50",
+        price: "$145.00",
         img: "./images/drink/32.Royal Salute 21Year.jpg",
         en: {
             title: "Royal Salute 21Year",
@@ -1095,7 +1095,7 @@ const menu = [
     {
         id: 33,
         category: "drink",
-        price: "$1.50",
+        price: "$75.00",
         img: "./images/drink/33.Double Black.jpg",
         en: {
             title: "Double Black",
@@ -1109,7 +1109,7 @@ const menu = [
     {
         id: 34,
         category: "drink",
-        price: "$1.50",
+        price: "$95.00",
         img: "./images/drink/34.Gold Label.jpg",
         en: {
             title: "Gold Label",
@@ -1123,7 +1123,7 @@ const menu = [
     {
         id: 35,
         category: "drink",
-        price: "$1.50",
+        price: "$54.00",
         img: "./images/drink/35.Jack Daneil's.jpg",
         en: {
             title: "Jack Daneil's",
@@ -1137,7 +1137,7 @@ const menu = [
     {
         id: 36,
         category: "drink",
-        price: "$1.50",
+        price: "$27.00",
         img: "./images/drink/36.Jim Beam.jpg",
         en: {
             title: "Jim Beam",
@@ -1151,7 +1151,7 @@ const menu = [
     {
         id: 37,
         category: "drink",
-        price: "$1.50",
+        price: "$70.00",
         img: "./images/drink/37.Black Label.jpg",
         en: {
             title: "Black Label",
@@ -1165,7 +1165,7 @@ const menu = [
     {
         id: 38,
         category: "drink",
-        price: "$1.50",
+        price: "$45.00",
         img: "./images/drink/38.Red Label.jpg",
         en: {
             title: "Red Label",
@@ -1179,7 +1179,7 @@ const menu = [
     {
         id: 39,
         category: "drink",
-        price: "$1.50",
+        price: "$80.00",
         img: "./images/drink/39.Platimuim Label.jpg",
         en: {
             title: "Platimuim Label",
@@ -1193,7 +1193,7 @@ const menu = [
     {
         id: 40,
         category: "drink",
-        price: "$1.50",
+        price: "$230.00",
         img: "./images/drink/40.Martell X.O.jpg",
         en: {
             title: "Martell X.O",
@@ -1207,7 +1207,7 @@ const menu = [
     {
         id: 41,
         category: "drink",
-        price: "$1.50",
+        price: "$230.00",
         img: "./images/drink/41.Martell Cordon Blue.jpg",
         en: {
             title: "Martell Cordon Blue",
