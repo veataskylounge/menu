@@ -771,7 +771,7 @@ const menu = [
         }
     },
     {
-        id: 02,
+        id: 01,
         category: "drink",
         price: "$30.00",
         img: "./images/drink/02.Koonunga Hill Red (Btl).jpg",
@@ -785,7 +785,7 @@ const menu = [
         }
     },
     {
-        id: 03,
+        id: 02,
         category: "drink",
         price: "$58.00",
         img: "./images/drink/03.Max's Red.jpg",
@@ -799,7 +799,7 @@ const menu = [
         }
     },
     {
-        id: 04,
+        id: 03,
         category: "drink",
         price: "$64.00",
         img: "./images/drink/4.Bin2.jpg",
@@ -813,7 +813,7 @@ const menu = [
         }
     },
     {
-        id: 07,
+        id: 04,
         category: "drink",
         price: "$180.00",
         img: "./images/drink/07.Bin 389.jpg",
@@ -827,7 +827,7 @@ const menu = [
         }
     },
     {
-        id: 08,
+        id: 05,
         category: "drink",
         price: "$35.00",
         img: "./images/drink/08.Migthy Blue Shiraz.jpg",
@@ -841,7 +841,7 @@ const menu = [
         }
     },
     {
-        id: 09,
+        id: 06,
         category: "drink",
         price: "$35.00",
         img: "./images/drink/09.Migthy Blue Carbernet Savigon.jpg",
@@ -855,7 +855,7 @@ const menu = [
         }
     },
     {
-        id: 11,
+        id: 07,
         category: "drink",
         price: "$65.00",
         img: "./images/drink/11.Chateau Yaldera Lily Plonds Crenache.jpg",
@@ -869,7 +869,7 @@ const menu = [
         }
     },
     {
-        id: 12,
+        id: 08,
         category: "drink",
         price: "$120.00",
         img: "./images/drink/12.TabaliPayen.jpg",
@@ -883,7 +883,7 @@ const menu = [
         }
     },
     {
-        id: 13,
+        id: 09,
         category: "drink",
         price: "$120.00",
         img: "./images/drink/13.Lahuen.jpg",
@@ -897,7 +897,7 @@ const menu = [
         }
     },
     {
-        id: 14,
+        id: 10,
         category: "drink",
         price: "$3.50",
         img: "./images/drink/14.ABC (can).jpg",
@@ -911,7 +911,7 @@ const menu = [
         }
     },
     {
-        id: 15,
+        id: 11,
         category: "drink",
         price: "$2.50",
         img: "./images/drink/15.Angkor Bottle.jpg",
@@ -925,7 +925,7 @@ const menu = [
         }
     },
     {
-        id: 16,
+        id: 12,
         category: "drink",
         price: "$4.00",
         img: "./images/drink/16.Corona Bottle.jpg",
@@ -939,7 +939,7 @@ const menu = [
         }
     },
     {
-        id: 17,
+        id: 13,
         category: "drink",
         price: "$3.00",
         img: "./images/drink/17.Tigger Bottle.jpg",
@@ -953,7 +953,7 @@ const menu = [
         }
     },
     {
-        id: 18,
+        id: 14,
         category: "drink",
         price: "$3.00",
         img: "./images/drink/18.HANUMAN Bottle.jpg",
@@ -967,7 +967,7 @@ const menu = [
         }
     },
     {
-        id: 19,
+        id: 15,
         category: "drink",
         price: "$3.០0",
         img: "./images/drink/19.Heineken Bottle.jpg",
@@ -981,7 +981,7 @@ const menu = [
         }
     },
     {
-        id: 20,
+        id: 16,
         category: "drink",
         price: "$1.50",
         img: "./images/drink/20.Eau Kulen (500ml).jpg",
@@ -995,7 +995,7 @@ const menu = [
         }
     },
     {
-        id: 21,
+        id: 17,
         category: "drink",
         price: "$3.00",
         img: "./images/drink/21.Eau Kulen (1500ml).jpg",
@@ -1009,7 +1009,7 @@ const menu = [
         }
     },
     {
-        id: 22,
+        id: 18,
         category: "drink",
         price: "$1.50",
         img: "./images/drink/22.Vital  (500ml).jpg",
@@ -1023,7 +1023,7 @@ const menu = [
         }
     },
     {
-        id: 23,
+        id: 19,
         category: "drink",
         price: "$2.00",
         img: "./images/drink/23.Vital(1500ml).jpg",
@@ -1037,7 +1037,7 @@ const menu = [
         }
     },
     {
-        id: 24,
+        id: 20,
         category: "drink",
         price: "$1.50",
         img: "./images/drink/24.Coke.jpg",
@@ -1051,7 +1051,7 @@ const menu = [
         }
     },
     {
-        id: 25,
+        id: 21,
         category: "drink",
         price: "$1.50",
         img: "./images/drink/25.Yeo's.jpg",
@@ -1065,7 +1065,7 @@ const menu = [
         }
     },
     {
-        id: 26,
+        id: 22,
         category: "drink",
         price: "$1.50",
         img: "./images/drink/26.Soda Water.jpg",
@@ -1079,7 +1079,7 @@ const menu = [
         }
     },
     {
-        id: 27,
+        id: 23,
         category: "drink",
         price: "$1.50",
         img: "./images/drink/27.Sprite.jpg",
@@ -1093,7 +1093,7 @@ const menu = [
         }
     },
     {
-        id: 28,
+        id: 24,
         category: "drink",
         price: "$75.00",
         img: "./images/drink/28.Ballantine 12Year.jpg",
@@ -1107,7 +1107,7 @@ const menu = [
         }
     },
     {
-        id: 29,
+        id: 25,
         category: "drink",
         price: "$120.00",
         img: "./images/drink/29.Ballantine21Year.jpg",
@@ -1121,7 +1121,7 @@ const menu = [
         }
     },
     {
-        id: 30,
+        id: 26,
         category: "drink",
         price: "$45.00",
         img: "./images/drink/30.Chivas Regal 12Year.jpg",
@@ -1135,7 +1135,7 @@ const menu = [
         }
     },
     {
-        id: 32,
+        id: 27,
         category: "drink",
         price: "$145.00",
         img: "./images/drink/32.Royal Salute 21Year.jpg",
@@ -1149,7 +1149,7 @@ const menu = [
         }
     },
     {
-        id: 33,
+        id: 28,
         category: "drink",
         price: "$75.00",
         img: "./images/drink/33.Double Black.jpg",
@@ -1163,7 +1163,7 @@ const menu = [
         }
     },
     {
-        id: 34,
+        id: 29,
         category: "drink",
         price: "$95.00",
         img: "./images/drink/34.Gold Label.jpg",
@@ -1177,7 +1177,7 @@ const menu = [
         }
     },
     {
-        id: 35,
+        id: 30,
         category: "drink",
         price: "$54.00",
         img: "./images/drink/35.Jack Daneil's.jpg",
@@ -1191,7 +1191,7 @@ const menu = [
         }
     },
     {
-        id: 36,
+        id: 31,
         category: "drink",
         price: "$27.00",
         img: "./images/drink/36.Jim Beam.jpg",
@@ -1205,7 +1205,7 @@ const menu = [
         }
     },
     {
-        id: 37,
+        id: 32,
         category: "drink",
         price: "$70.00",
         img: "./images/drink/37.Black Label.jpg",
@@ -1219,7 +1219,7 @@ const menu = [
         }
     },
     {
-        id: 38,
+        id: 33,
         category: "drink",
         price: "$45.00",
         img: "./images/drink/38.Red Label.jpg",
@@ -1233,7 +1233,7 @@ const menu = [
         }
     },
     {
-        id: 39,
+        id: 34,
         category: "drink",
         price: "$80.00",
         img: "./images/drink/39.Platimuim Label.jpg",
@@ -1247,7 +1247,7 @@ const menu = [
         }
     },
     {
-        id: 40,
+        id: 35,
         category: "drink",
         price: "$230.00",
         img: "./images/drink/40.Martell X.O.jpg",
@@ -1261,7 +1261,7 @@ const menu = [
         }
     },
     {
-        id: 41,
+        id: 36,
         category: "drink",
         price: "$230.00",
         img: "./images/drink/41.Martell Cordon Blue.jpg",
@@ -1275,7 +1275,7 @@ const menu = [
         }
     },
     {
-        id: 42,
+        id: 37,
         category: "drink",
         price: "$230.00",
         img: "./images/drink/42.RemyMartinX.O.jpg",
@@ -1289,7 +1289,7 @@ const menu = [
         }
     },
     {
-        id: 43,
+        id: 38,
         category: "drink",
         price: "$4.00",
         img: "./images/drink/43.Blue Margarita.jpg",
@@ -1303,7 +1303,7 @@ const menu = [
         }
     },
     {
-        id: 44,
+        id: 39,
         category: "drink",
         price: "$4.00",
         img: "./images/drink/44.Pink Lady.jpg",
@@ -1317,7 +1317,7 @@ const menu = [
         }
     },
     {
-        id: 46,
+        id: 40,
         category: "drink",
         price: "$4.00",
         img: "./images/drink/46.Mojito.jpg",
@@ -1331,7 +1331,7 @@ const menu = [
         }
     },
     {
-        id: 47,
+        id: 41,
         category: "drink",
         price: "$4.00",
         img: "./images/drink/47.B-52.jpg",
@@ -1345,7 +1345,7 @@ const menu = [
         }
     },
     {
-        id: 49,
+        id: 42,
         category: "drink",
         price: "$4.00",
         img: "./images/drink/49.Special Mekong view.jpg",
@@ -1359,7 +1359,7 @@ const menu = [
         }
     },
     {
-        id: 50,
+        id: 43,
         category: "drink",
         price: "$4.00",
         img: "./images/drink/50.Pina Colado.jpg",
@@ -1373,7 +1373,7 @@ const menu = [
         }
     },
     {
-        id: 51,
+        id: 44,
         category: "drink",
         price: "$4.00",
         img: "./images/drink/51.Long Island.jpg",
@@ -1387,7 +1387,7 @@ const menu = [
         }
     },
     {
-        id: 52,
+        id: 45,
         category: "drink",
         price: "$4.00",
         img: "./images/drink/52.Blue Mekong.jpg",
@@ -1401,7 +1401,7 @@ const menu = [
         }
     },
     {
-        id: 53,
+        id: 46,
         category: "drink",
         price: "$3.00",
         img: "./images/drink/53.Apple Shake.jpg",
@@ -1415,7 +1415,7 @@ const menu = [
         }
     },
     {
-        id: 54,
+        id: 47,
         category: "drink",
         price: "$3.00",
         img: "./images/drink/54.Coconut Shake.jpg",
@@ -1429,7 +1429,7 @@ const menu = [
         }
     },
     {
-        id: 55,
+        id: 48,
         category: "drink",
         price: "$3.00",
         img: "./images/drink/55.Passion Shake.jpg",
@@ -1443,7 +1443,7 @@ const menu = [
         }
     },
     {
-        id: 56,
+        id: 49,
         category: "drink",
         price: "$3.00",
         img: "./images/drink/56.Pineapple Shake.jpg",
@@ -1457,7 +1457,7 @@ const menu = [
         }
     },
     {
-        id: 57,
+        id: 50,
         category: "drink",
         price: "$3.00",
         img: "./images/drink/57.Watermelon Shake.jpg",
@@ -1471,7 +1471,7 @@ const menu = [
         }
     },
     {
-        id: 58,
+        id: 51,
         category: "drink",
         price: "$3.00",
         img: "./images/drink/58.Avocado Shake.jpg",
@@ -1485,7 +1485,7 @@ const menu = [
         }
     },
     {
-        id: 59,
+        id: 52,
         category: "drink",
         price: "$3.00",
         img: "./images/drink/59.Mix Fruite Shake.jpg",
@@ -1499,7 +1499,7 @@ const menu = [
         }
     },
     {
-        id: 60,
+        id: 53,
         category: "drink",
         price: "$3.00",
         img: "./images/drink/60.Coconut Juice.jpg",
@@ -1512,7 +1512,7 @@ const menu = [
             desc: "មីឆាថៃជាមួយតៅហ៊ូ បង្គា សណ្តែកបណ្តុះ និងទឹកជ្រលក់អំពិលទុំជូរអែម។"
         }
     },{
-        id: 61,
+        id: 54,
         category: "drink",
         price: "$3.00",
         img: "./images/drink/61.Watermelon Juce.jpg",
@@ -1525,7 +1525,7 @@ const menu = [
             desc: "មីឆាថៃជាមួយតៅហ៊ូ បង្គា សណ្តែកបណ្តុះ និងទឹកជ្រលក់អំពិលទុំជូរអែម។"
         }
     },{
-        id: 62,
+        id: 55,
         category: "drink",
         price: "$3.00",
         img: "./images/drink/62.Apple Juce.jpg",
@@ -1538,7 +1538,7 @@ const menu = [
             desc: "មីឆាថៃជាមួយតៅហ៊ូ បង្គា សណ្តែកបណ្តុះ និងទឹកជ្រលក់អំពិលទុំជូរអែម។"
         }
     },{
-        id: 63,
+        id: 56,
         category: "drink",
         price: "$3.00",
         img: "./images/drink/63.Orange Juice.jpg",
@@ -1551,7 +1551,7 @@ const menu = [
             desc: "មីឆាថៃជាមួយតៅហ៊ូ បង្គា សណ្តែកបណ្តុះ និងទឹកជ្រលក់អំពិលទុំជូរអែម។"
         }
     },{
-        id: 64,
+        id: 57,
         category: "drink",
         price: "$3.00",
         img: "./images/drink/64.Mix Fruite Juice.jpg",
@@ -1564,7 +1564,7 @@ const menu = [
             desc: "មីឆាថៃជាមួយតៅហ៊ូ បង្គា សណ្តែកបណ្តុះ និងទឹកជ្រលក់អំពិលទុំជូរអែម។"
         }
     },{
-        id: 65,
+        id: 58,
         category: "drink",
         price: "$1.00",
         img: "./images/drink/65.Hot Tea.jpg",
