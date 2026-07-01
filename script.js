@@ -799,6 +799,20 @@ const menu = [
         }
     },
     {
+        id: 04,
+        category: "drink",
+        price: "$58.00",
+        img: "./images/drink/4.Bin2.jpg",
+        en: {
+            title: "Bin2",
+            desc: "( Salmon, Crab & Prawn ), Stir-fried rice noodles with tofu, shrimp, bean sprouts, and a tangy tamarind sauce."
+        },
+        km: {
+            title: "Bin2",
+            desc: "មីឆាថៃជាមួយតៅហ៊ូ បង្គា សណ្តែកបណ្តុះ និងទឹកជ្រលក់អំពិលទុំជូរអែម។"
+        }
+    },
+    {
         id: 07,
         category: "drink",
         price: "$180.00",
