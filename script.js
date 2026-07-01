@@ -869,6 +869,34 @@ const menu = [
         }
     },
     {
+        id: 12,
+        category: "drink",
+        price: "$65.00",
+        img: "./images/drink/12.TabaliPayen.jpg",
+        en: {
+            title: "TabaliPayen",
+            desc: "( Salmon, Crab & Prawn ), Stir-fried rice noodles with tofu, shrimp, bean sprouts, and a tangy tamarind sauce."
+        },
+        km: {
+            title: "TabaliPayen",
+            desc: "មីឆាថៃជាមួយតៅហ៊ូ បង្គា សណ្តែកបណ្តុះ និងទឹកជ្រលក់អំពិលទុំជូរអែម។"
+        }
+    },
+    {
+        id: 13,
+        category: "drink",
+        price: "$65.00",
+        img: "./images/drink/13.Lahuen.jpg",
+        en: {
+            title: "Lahuen",
+            desc: "( Salmon, Crab & Prawn ), Stir-fried rice noodles with tofu, shrimp, bean sprouts, and a tangy tamarind sauce."
+        },
+        km: {
+            title: "Lahuen",
+            desc: "មីឆាថៃជាមួយតៅហ៊ូ បង្គា សណ្តែកបណ្តុះ និងទឹកជ្រលក់អំពិលទុំជូរអែម។"
+        }
+    },
+    {
         id: 14,
         category: "drink",
         price: "$3.50",
@@ -1079,6 +1107,20 @@ const menu = [
         }
     },
     {
+        id: 29,
+        category: "drink",
+        price: "$75.00",
+        img: "./images/drink/29.Ballantine21Year.jpg",
+        en: {
+            title: "Ballantine 12Year",
+            desc: "( Salmon, Crab & Prawn ), Stir-fried rice noodles with tofu, shrimp, bean sprouts, and a tangy tamarind sauce."
+        },
+        km: {
+            title: "Ballantine 12Year",
+            desc: "មីឆាថៃជាមួយតៅហ៊ូ បង្គា សណ្តែកបណ្តុះ និងទឹកជ្រលក់អំពិលទុំជូរអែម។"
+        }
+    },
+    {
         id: 30,
         category: "drink",
         price: "$45.00",
@@ -1229,6 +1271,20 @@ const menu = [
         },
         km: {
             title: "Martell Cordon Blue",
+            desc: "មីឆាថៃជាមួយតៅហ៊ូ បង្គា សណ្តែកបណ្តុះ និងទឹកជ្រលក់អំពិលទុំជូរអែម។"
+        }
+    },
+    {
+        id: 42,
+        category: "drink",
+        price: "$230.00",
+        img: "./images/drink/42.RemyMartinX.O.jpg",
+        en: {
+            title: "RemyMartinX.O",
+            desc: "( Salmon, Crab & Prawn ), Stir-fried rice noodles with tofu, shrimp, bean sprouts, and a tangy tamarind sauce."
+        },
+        km: {
+            title: "RemyMartinX.O",
             desc: "មីឆាថៃជាមួយតៅហ៊ូ បង្គា សណ្តែកបណ្តុះ និងទឹកជ្រលក់អំពិលទុំជូរអែម។"
         }
     },
@@ -1439,6 +1495,85 @@ const menu = [
         },
         km: {
             title: "Mix Fruite Shake",
+            desc: "មីឆាថៃជាមួយតៅហ៊ូ បង្គា សណ្តែកបណ្តុះ និងទឹកជ្រលក់អំពិលទុំជូរអែម។"
+        }
+    },
+    {
+        id: 60,
+        category: "drink",
+        price: "$3.00",
+        img: "./images/drink/60.Coconut Juice.jpg",
+        en: {
+            title: "Coconut Juice",
+            desc: "( Salmon, Crab & Prawn ), Stir-fried rice noodles with tofu, shrimp, bean sprouts, and a tangy tamarind sauce."
+        },
+        km: {
+            title: "Coconut Juice",
+            desc: "មីឆាថៃជាមួយតៅហ៊ូ បង្គា សណ្តែកបណ្តុះ និងទឹកជ្រលក់អំពិលទុំជូរអែម។"
+        }
+    },{
+        id: 61,
+        category: "drink",
+        price: "$3.00",
+        img: "./images/drink/61.Watermelon Juce.jpg",
+        en: {
+            title: "Watermelon Juce",
+            desc: "( Salmon, Crab & Prawn ), Stir-fried rice noodles with tofu, shrimp, bean sprouts, and a tangy tamarind sauce."
+        },
+        km: {
+            title: "Watermelon Juce",
+            desc: "មីឆាថៃជាមួយតៅហ៊ូ បង្គា សណ្តែកបណ្តុះ និងទឹកជ្រលក់អំពិលទុំជូរអែម។"
+        }
+    },{
+        id: 62,
+        category: "drink",
+        price: "$3.00",
+        img: "./images/drink/62.Apple Juce.jpg",
+        en: {
+            title: "Apple Juce",
+            desc: "( Salmon, Crab & Prawn ), Stir-fried rice noodles with tofu, shrimp, bean sprouts, and a tangy tamarind sauce."
+        },
+        km: {
+            title: "Apple Juce",
+            desc: "មីឆាថៃជាមួយតៅហ៊ូ បង្គា សណ្តែកបណ្តុះ និងទឹកជ្រលក់អំពិលទុំជូរអែម។"
+        }
+    },{
+        id: 63,
+        category: "drink",
+        price: "$3.00",
+        img: "./images/drink/63.Orange Juice.jpg",
+        en: {
+            title: "Orange Juice",
+            desc: "( Salmon, Crab & Prawn ), Stir-fried rice noodles with tofu, shrimp, bean sprouts, and a tangy tamarind sauce."
+        },
+        km: {
+            title: "Orange Juice",
+            desc: "មីឆាថៃជាមួយតៅហ៊ូ បង្គា សណ្តែកបណ្តុះ និងទឹកជ្រលក់អំពិលទុំជូរអែម។"
+        }
+    },{
+        id: 64,
+        category: "drink",
+        price: "$3.00",
+        img: "./images/drink/64.Mix Fruite Juice.jpg",
+        en: {
+            title: "Mix Fruite Juice",
+            desc: "( Salmon, Crab & Prawn ), Stir-fried rice noodles with tofu, shrimp, bean sprouts, and a tangy tamarind sauce."
+        },
+        km: {
+            title: "Mix Fruite Juice",
+            desc: "មីឆាថៃជាមួយតៅហ៊ូ បង្គា សណ្តែកបណ្តុះ និងទឹកជ្រលក់អំពិលទុំជូរអែម។"
+        }
+    },{
+        id: 65,
+        category: "drink",
+        price: "$3.00",
+        img: "./images/drink/65.Hot Tea.jpg",
+        en: {
+            title: "Hot Tea",
+            desc: "( Salmon, Crab & Prawn ), Stir-fried rice noodles with tofu, shrimp, bean sprouts, and a tangy tamarind sauce."
+        },
+        km: {
+            title: "Hot Tea",
             desc: "មីឆាថៃជាមួយតៅហ៊ូ បង្គា សណ្តែកបណ្តុះ និងទឹកជ្រលក់អំពិលទុំជូរអែម។"
         }
     },
