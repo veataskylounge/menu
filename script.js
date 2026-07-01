@@ -1564,7 +1564,7 @@ const menu = [
             desc: "មីឆាថៃជាមួយតៅហ៊ូ បង្គា សណ្តែកបណ្តុះ និងទឹកជ្រលក់អំពិលទុំជូរអែម។"
         }
     },{
-        id: D65,
+        id: 65,
         category: "drink",
         price: "$1.00",
         img: "./images/drink/65.Hot Tea.jpg",
