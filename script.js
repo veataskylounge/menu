@@ -801,7 +801,7 @@ const menu = [
     {
         id: 04,
         category: "drink",
-        price: "$58.00",
+        price: "$64.00",
         img: "./images/drink/4.Bin2.jpg",
         en: {
             title: "Bin2",
@@ -871,7 +871,7 @@ const menu = [
     {
         id: 12,
         category: "drink",
-        price: "$65.00",
+        price: "$120.00",
         img: "./images/drink/12.TabaliPayen.jpg",
         en: {
             title: "TabaliPayen",
@@ -885,7 +885,7 @@ const menu = [
     {
         id: 13,
         category: "drink",
-        price: "$65.00",
+        price: "$120.00",
         img: "./images/drink/13.Lahuen.jpg",
         en: {
             title: "Lahuen",
@@ -1109,7 +1109,7 @@ const menu = [
     {
         id: 29,
         category: "drink",
-        price: "$75.00",
+        price: "$120.00",
         img: "./images/drink/29.Ballantine21Year.jpg",
         en: {
             title: "Ballantine 12Year",
@@ -1564,9 +1564,9 @@ const menu = [
             desc: "មីឆាថៃជាមួយតៅហ៊ូ បង្គា សណ្តែកបណ្តុះ និងទឹកជ្រលក់អំពិលទុំជូរអែម។"
         }
     },{
-        id: 65,
+        id: D65,
         category: "drink",
-        price: "$3.00",
+        price: "$1.00",
         img: "./images/drink/65.Hot Tea.jpg",
         en: {
             title: "Hot Tea",
